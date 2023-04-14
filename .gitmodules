@@ -10,6 +10,6 @@
 [submodule "submodules/LIB"]
 	path = submodules/LIB
 	url = git@github.com:IObundle/iob-lib.git
-[submodule "submodules/IOBSOC"]
-	path = submodules/IOBSOC
-	url = git@github.com:IObundle/iob-soc.git
+[submodule "submodules/OPENCRYPTOLINUX"]
+	path = submodules/OPENCRYPTOLINUX
+	url = git@github.com:arturum1/iob-soc-opencryptolinux.git
