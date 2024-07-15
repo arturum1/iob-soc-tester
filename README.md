@@ -2,7 +2,10 @@
 
 IOb-SoC-Tester is a platform for developing and validating hardware/software (HW/SW) algorithms. This platform utilizes RISC-V CPUs and peripherals called Test Instruments (TIs).
 
-This project initially started with the [OpenCryptoTester](https://nlnet.nl/project/OpenCryptoTester#ack) to mainly to verify cryptographic systems that improve internet security. However, IOb-SoC Tester can also be used to test any Core or SoC. The proposed tester SoC shoud open the way for open-source test instrumentation operated bare-metal or under Linux.
+This project initially started with the [OpenCryptoTester](https://nlnet.nl/project/OpenCryptoTester#ack) to verify cryptographic systems that improve internet security. However, the IOb-SoC Tester can also be used to test any Core or SoC. The proposed tester SoC should open the way for open-source test instrumentation operated bare-metal or under Linux.
+
+## List of developed Test Instruments
+(insert bullet list here)
 
 # Repository moved
 
